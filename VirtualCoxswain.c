@@ -16,7 +16,6 @@ String20 MLine2[14];
 String20 MLine3[14];
 String20 MLine4[14];
 
-
 int EncVal1;
 int EncVal2;
 float IRVoltageCatch;
